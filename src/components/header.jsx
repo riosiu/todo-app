@@ -8,7 +8,7 @@ function Header() {
         <ul className='flex flex-row ml-auto p-2'>
           <a className='px-4 text-base hover:font-bold' href="">List Todo</a>
           <a className='px-4 text-base hover:font-bold' href="">Create Todo</a>
-          <a className='px-4 text-base hover:font-bold' href="">About Me</a>
+          <a className='px-4 text-base hover:font-bold' href="https://www.rioxiu.my.id">About Me</a>
         </ul>
       </nav>
     </header>
